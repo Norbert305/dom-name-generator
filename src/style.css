@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url(https://images.unsplash.com/photo-1613742631162-cdba058776b9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2t5JTIwYmx1ZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  /* background-position-x: inherit;
+    background-repeat: repeat-x; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
